@@ -106,12 +106,10 @@ The application validates inputs to ensure they fall within realistic agricultur
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
 - Dataset source: Agricultural research data
 - Built with Flask web framework
+
 - UI design inspired by modern agricultural technology interfaces
